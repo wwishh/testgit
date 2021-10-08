@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 print("bbbb");
 print('aaa');
 print("cccc");
+print("Ccccccccccc");
+print('aaa');
+print("bbbbbbbbbbbb");
